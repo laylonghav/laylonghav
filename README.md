@@ -58,7 +58,6 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 - Adobe Photoshop, Illustrator, Premiere
 
 ## 📫 Connect with Me
-- **Phone:** 0979266010
 - **Email:** [laylonghav2023@Gmail.com](mailto:laylonghav2023@Gmail.com)
 - **GitHub:** [laylonghav](https://github.com/laylonghav) 
 - **LinkedIn:** [laylonghav](https://www.linkedin.com/in/laylonghav/)
