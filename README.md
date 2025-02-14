@@ -1,3 +1,6 @@
+![Developer Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQxZXBoc2Z4M2R3YXZkOGxuaG53dmp2dmNlenQyY3ZsaGdzazd4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+
+
 ## 💻 About Me
 Hello! 
 
