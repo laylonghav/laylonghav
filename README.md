@@ -8,8 +8,6 @@ I am a highly motivated Web Developer with a deep understanding of both front-en
 
 Beyond front-end development, I have a strong command of back-end technologies, enabling efficient data management and smooth integration. My expertise spans across multiple technologies, ensuring that every project I work on is optimized for performance and scalability.
 
----
-
 ## 📍 Location
 - SamrongKrom, Kan Prek, Phnov, Phnom Penh
 
@@ -18,8 +16,6 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 
 ## 🏆 Work Experience
 - **Graphic Designer & Photographer at NPIC** (October 2024 - December 2024)
-
----
 
 ## 🛠️ Tech Stack & Skills
 
@@ -49,7 +45,6 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 ### 🔹 Testing & Debugging:
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
----
 
 ## 📂 Projects
 - **Website Clone - SabayNews** (CSS, HTML, Bootstrap)
@@ -58,14 +53,11 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 - **MY POS CSPUHAV** (React.js, Node.js)
 - **JobDone** (React.js, Laravel)
 
----
 
 ## 🔹 Additional Skills
 - Problem Solving, Teamwork, Time Management, Leadership, Communication, Critical Thinking, Adaptability
 - Microsoft Word, PowerPoint, Excel, Photography
 - Adobe Photoshop, Illustrator, Premiere
-
----
 
 ## 📫 Connect with Me
 - **Phone:** 0979266010
