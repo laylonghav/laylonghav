@@ -1,7 +1,7 @@
 ## 💻 About Me
 Hello! 
 
-I'm lAYLONGHAV
+I'm LAYLONGHAV
 
 
 🚀 Skilled & Passionate Web Developer
