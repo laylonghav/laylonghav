@@ -2,8 +2,8 @@
 
 ![Developer Banner](https://your-image-url.com/banner.png)
 
-## 🚀 Skilled & Passionate Web Developer
 
+🚀 Skilled & Passionate Web Developer
 I am a highly motivated Web Developer with a deep understanding of both front-end and back-end technologies. My passion lies in crafting high-quality, user-friendly websites and applications that provide seamless user experiences. With extensive experience in JavaScript, HTML, CSS, and modern frameworks, I specialize in developing dynamic, responsive, and visually appealing interfaces.
 
 Beyond front-end development, I have a strong command of back-end technologies, enabling efficient data management and smooth integration. My expertise spans across multiple technologies, ensuring that every project I work on is optimized for performance and scalability.
