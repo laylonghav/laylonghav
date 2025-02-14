@@ -1,6 +1,3 @@
-##<img src= "https://deepgram.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F96965%2F1728565729-best-local-coding-llm-thumbnail.png&w=3840&q=75" />
-
-
 # 💻 About Me
 
 ![Developer Banner](https://your-image-url.com/banner.png)
@@ -13,12 +10,25 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 
 ---
 
+## 📍 Location
+- SamrongKrom, Kan Prek, Phnov, Phnom Penh
+
+## 🎓 Education
+- **National Polytechnic Institute of Cambodia (NPIC)**
+
+## 🏆 Work Experience
+- **Graphic Designer & Photographer at NPIC** (October 2024 - December 2024)
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 ### 🔹 Languages & Frameworks:
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🔹 Database:
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -41,11 +51,28 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 
 ---
 
+## 📂 Projects
+- **Website Clone - SabayNews** (CSS, HTML, Bootstrap)
+- **My POS CSPUHAV** (React.js, Laravel)
+- **Restaurant Website** (CSS, HTML, Bootstrap)
+- **MY POS CSPUHAV** (React.js, Node.js)
+- **JobDone** (React.js, Laravel)
+
+---
+
+## 🔹 Additional Skills
+- Problem Solving, Teamwork, Time Management, Leadership, Communication, Critical Thinking, Adaptability
+- Microsoft Word, PowerPoint, Excel, Photography
+- Adobe Photoshop, Illustrator, Premiere
+
+---
+
 ## 📫 Connect with Me
-- GitHub: [Your GitHub Profile](https://github.com/laylonghav)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/laylonghav/)
-- Email: [your.email@example.com](mailto:laylonghav2023.com)
+- **Phone:** 0979266010
+- **Email:** [laylonghav2023Gmail.com](mailto:laylonghav2023Gmail.com)
+- **GitHub:** [laylonghav](https://github.com/laylonghav) 
+- **LinkedIn:** [laylonghav](https://www.linkedin.com/in/laylonghav/)
+- **Portfolio:** [laylonghav](https://portfolio-a6js.vercel.app/)
 
 Let's build something amazing together! 🚀
-
 
