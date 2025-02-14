@@ -1,5 +1,6 @@
 ## 💻 About Me
-Hello ! 
+Hello! 
+
 I'm lAYLONGHAV
 
 
@@ -13,9 +14,6 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 
 ## 🎓 Education
 - **National Polytechnic Institute of Cambodia (NPIC)**
-
-## 🏆 Work Experience
-- **Graphic Designer & Photographer at NPIC** (October 2024 - December 2024)
 
 ## 🛠️ Tech Stack & Skills
 
@@ -50,15 +48,6 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 ### 🔹 Testing & Debugging:
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-
-## 📂 Projects
-- **Website Clone - SabayNews** (CSS, HTML, Bootstrap)
-- **My POS CSPUHAV** (React.js, Laravel)
-- **Restaurant Website** (CSS, HTML, Bootstrap)
-- **MY POS CSPUHAV** (React.js, Node.js)
-- **JobDone** (React.js, Laravel)
-
-
 ## 🔹 Additional Skills
 - Problem Solving, Teamwork, Time Management, Leadership, Communication, Critical Thinking, Adaptability
 - Microsoft Word, PowerPoint, Excel, Photography
@@ -66,7 +55,7 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 
 ## 📫 Connect with Me
 - **Phone:** 0979266010
-- **Email:** [laylonghav2023Gmail.com](mailto:laylonghav2023@Gmail.com)
+- **Email:** [laylonghav2023@Gmail.com](mailto:laylonghav2023@Gmail.com)
 - **GitHub:** [laylonghav](https://github.com/laylonghav) 
 - **LinkedIn:** [laylonghav](https://www.linkedin.com/in/laylonghav/)
 - **TikTok:** [CSPUHAV](https://www.tiktok.com/@cspuhav)
