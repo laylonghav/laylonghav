@@ -27,6 +27,7 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 
 ### 🔹 Database:
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- [SQL](![image](https://github.com/user-attachments/assets/3ecbb563-831f-407e-8d95-e894e70bcb03)
 
 ### 🔹 State Management:
 - ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
