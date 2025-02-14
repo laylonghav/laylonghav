@@ -69,9 +69,11 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 
 ## 📫 Connect with Me
 - **Phone:** 0979266010
-- **Email:** [laylonghav2023Gmail.com](mailto:laylonghav2023Gmail.com)
+- **Email:** [laylonghav2023Gmail.com](mailto:laylonghav2023@Gmail.com)
 - **GitHub:** [laylonghav](https://github.com/laylonghav) 
 - **LinkedIn:** [laylonghav](https://www.linkedin.com/in/laylonghav/)
+- **TikTok:** [CSPUHAV](https://www.tiktok.com/@cspuhav)
+- **Youtube:** [laylonghav](https://www.youtube.com/@laylonghav)
 - **Portfolio:** [laylonghav](https://portfolio-a6js.vercel.app/)
 
 Let's build something amazing together! 🚀
