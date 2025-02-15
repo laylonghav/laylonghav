@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
  <iframe src="https://assets.pinterest.com/ext/embed.html?id=848787861044397921" height="550" width="600" frameborder="0" scrolling="no" ></iframe>
-</p>
+</div>
 
 ## 💻 About Me
 Hello! 
