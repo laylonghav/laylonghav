@@ -66,11 +66,13 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 <p align="left">
 <a href="https://x.com/laylonghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laylonghav" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/laylonghav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laylonghav" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/laylonghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="laylonghav" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25343900/lay-longhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="laylonghav" height="30" width="40" /></a>
 <a href="https://fb.com/laylonghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laylonghav" height="30" width="40" /></a>
 <a href="https://instagram.com/laylonghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laylonghav" height="30" width="40" /></a>
-<a href="https://www.youtube.com/laylonghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="laylonghav" height="30" width="40" /></a>
-<a href="mailto:laylonghav2023@Gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="laylonghav" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@laylonghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="laylonghav" height="30" width="40" /></a>
+<a href="mailto:laylonghav2023@Gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="laylonghav" height="30" width="30" /></a>
+<a href="https://www.tiktok.com/@cspuhav" target="blank"><img align="center" src="./tiktok.png" alt="laylonghav" height="30" width="30" /></a>
+<a href="https://www.tiktok.com/@cspuhav" target="blank"><img align="center" src="./tiktok.png" alt="laylonghav" height="30" width="30" /></a>
 </p>
 
 <p align="center">
