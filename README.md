@@ -64,7 +64,7 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 
 ## 📫 Connect with Me
 <p align="left">
-<a href="https://x.com/laylonghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laylonghav" height="30" width="40" /></a>
+<a href="https://x.com/laylonghav" target="blank"><img align="center" src="./x-social-media-white-round-icon.png" alt="laylonghav" height="35" width="35" /></a>
 <a href="https://www.linkedin.com/in/laylonghav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laylonghav" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25343900/lay-longhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="laylonghav" height="30" width="40" /></a>
 <a href="https://fb.com/laylonghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laylonghav" height="30" width="40" /></a>
