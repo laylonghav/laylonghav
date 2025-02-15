@@ -63,19 +63,69 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 - Microsoft Word, PowerPoint, Excel, Photography
 - Adobe Photoshop, Illustrator, Premiere
 
-## 📫 Connect with Me
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Connect with Me</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        .container {
+            max-width: 500px;
+            margin: auto;
+        }
+        .contact-list {
+            list-style: none;
+            padding: 0;
+        }
+        .contact-list li {
+            margin: 10px 0;
+        }
+        .contact-list img {
+            width: 20px;
+            height: 20px;
+            vertical-align: middle;
+            margin-right: 10px;
+        }
+        .login-section {
+            margin-top: 20px;
+        }
+        .login-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>📫 Connect with Me</h2>
+        <ul class="contact-list">
+            <li><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> <a href="mailto:laylonghav2023@Gmail.com">Email</a></li>
+            <li><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"> <a href="https://github.com/laylonghav">GitHub</a></li>
+            <li><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"> <a href="https://www.linkedin.com/in/laylonghav/">LinkedIn</a></li>
+            <li><img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg"> <a href="https://www.tiktok.com/@cspuhav">TikTok</a></li>
+            <li><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_social_white_square_%282017%29.svg"> <a href="https://www.youtube.com/@laylonghav">YouTube</a></li>
+            <li><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"> <a href="https://www.facebook.com/laylonghav">Facebook</a></li>
+            <li><a href="https://portfolio-a6js.vercel.app/">Portfolio</a></li>
+        </ul>
+        
+        <div class="login-section">
+            <h3>🔐 Login Platform</h3>
+            <a class="login-button" href="https://portfolio-a6js.vercel.app/login">Login Here</a>
+        </div>
+    </div>
+</body>
+</html>
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="20" height="20"> **Email:** [laylonghav2023@Gmail.com](mailto:laylonghav2023@Gmail.com)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20" height="20"> **GitHub:** [laylonghav](https://github.com/laylonghav) 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="20" height="20"> **LinkedIn:** [laylonghav](https://www.linkedin.com/in/laylonghav/)
-- <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" width="20" height="20"> **TikTok:** [CSPUHAV](https://www.tiktok.com/@cspuhav)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_social_white_square_%282017%29.svg" width="20" height="20"> **YouTube:** [laylonghav](https://www.youtube.com/@laylonghav)
-- **Portfolio:** [laylonghav](https://portfolio-a6js.vercel.app/)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="20" height="20"> **Facebook:** [laylonghav](https://www.facebook.com/laylonghav)
-
-## 🔐 Login Platform
-
-- **Website Login:** [Login Here](https://portfolio-a6js.vercel.app/login)
 
 
 
