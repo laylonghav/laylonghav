@@ -72,7 +72,7 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 <a href="https://www.youtube.com/@laylonghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="laylonghav" height="30" width="40" /></a>
 <a href="mailto:laylonghav2023@Gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="laylonghav" height="30" width="30" /></a>
 <a href="https://www.tiktok.com/@cspuhav" target="blank"><img align="center" src="./tiktok.png" alt="laylonghav" height="35" width="65" /></a>
-<a href="https://www.tiktok.com/@cspuhav" target="blank"><img align="center" src="./github-white-icon.png" alt="laylonghav" height="25" width="25" /></a>
+<a href="https://github.com/laylonghav" target="blank"><img align="center" src="./github-white-icon.png" alt="laylonghav" height="25" width="25" /></a>
 </p>
 
 <p align="center">
