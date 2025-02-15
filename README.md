@@ -65,12 +65,16 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 </p>
 
 - <p akign="left">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Word_2013-2019_logo.svg" alt="laylonghav" height="35" width="35" />
+  <img align="center" src="./word.png" alt="laylonghav" height="35" width="55" />
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="laylonghav" height="35" width="35" />
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="laylonghav" height="35" width="35" />
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Photography_icon.svg" alt="laylonghav" height="35" width="35" />
-  
 </p>
+
+- <p akign="left">
+      <img src="https://img.shields.io/badge/Photography-000000?style=flat&logo=camera&logoColor=white" alt="Photography" />
+       <img align="center" src="./photo-camera.png" alt="laylonghav" height="35" width="35" />
+</p>
+
 
   
 - <p akign="left">
