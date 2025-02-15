@@ -65,17 +65,19 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 
 ## 📫 Connect with Me
 
-- ![Email Logo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg) **Email:** [laylonghav2023@Gmail.com](mailto:laylonghav2023@Gmail.com)
-- ![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) **GitHub:** [laylonghav](https://github.com/laylonghav) 
-- ![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg) **LinkedIn:** [laylonghav](https://www.linkedin.com/in/laylonghav/)
-- ![TikTok Logo](https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg) **TikTok:** [CSPUHAV](https://www.tiktok.com/@cspuhav)
-- ![YouTube Logo](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_social_white_square_%282017%29.svg) **YouTube:** [laylonghav](https://www.youtube.com/@laylonghav)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="20" height="20"> **Email:** [laylonghav2023@Gmail.com](mailto:laylonghav2023@Gmail.com)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20" height="20"> **GitHub:** [laylonghav](https://github.com/laylonghav) 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="20" height="20"> **LinkedIn:** [laylonghav](https://www.linkedin.com/in/laylonghav/)
+- <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" width="20" height="20"> **TikTok:** [CSPUHAV](https://www.tiktok.com/@cspuhav)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_social_white_square_%282017%29.svg" width="20" height="20"> **YouTube:** [laylonghav](https://www.youtube.com/@laylonghav)
 - **Portfolio:** [laylonghav](https://portfolio-a6js.vercel.app/)
-- ![Facebook Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg) **Facebook:** [laylonghav](https://www.facebook.com/laylonghav)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="20" height="20"> **Facebook:** [laylonghav](https://www.facebook.com/laylonghav)
 
 ## 🔐 Login Platform
 
 - **Website Login:** [Login Here](https://portfolio-a6js.vercel.app/login)
+
+
 
 
 Let's build something amazing together! 🚀
