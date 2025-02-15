@@ -63,44 +63,17 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 - Microsoft Word, PowerPoint, Excel, Photography
 - Adobe Photoshop, Illustrator, Premiere
 
-# Connect with Me
+## 📫 Connect with Me
+- **Email:** [laylonghav2023@Gmail.com](mailto:laylonghav2023@Gmail.com)
+- **GitHub:** [laylonghav](https://github.com/laylonghav) 
+- **LinkedIn:** [laylonghav](https://www.linkedin.com/in/laylonghav/)
+- **TikTok:** [CSPUHAV](https://www.tiktok.com/@cspuhav)
+- **Youtube:** [laylonghav](https://www.youtube.com/@laylonghav)
+- **Portfolio:** [laylonghav](https://portfolio-a6js.vercel.app/)
 
-📫 Connect with Me
-
-<ul style="list-style-type: none; padding: 0; display: flex; justify-content: space-around; flex-wrap: nowrap;">
-    <li style="margin-bottom: 15px; display: flex; align-items: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" style="width: 30px; height: 30px; margin-right: 10px;">
-        <a href="mailto:laylonghav2023@Gmail.com" style="text-decoration: none; color: #333;">Email</a>
-    </li>
-    <li style="margin-bottom: 15px; display: flex; align-items: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width: 30px; height: 30px; margin-right: 10px;">
-        <a href="https://github.com/laylonghav" style="text-decoration: none; color: #333;">GitHub</a>
-    </li>
-    <li style="margin-bottom: 15px; display: flex; align-items: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;">
-        <a href="https://www.linkedin.com/in/laylonghav/" style="text-decoration: none; color: #333;">LinkedIn</a>
-    </li>
-    <li style="margin-bottom: 15px; display: flex; align-items: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" style="width: 30px; height: 30px; margin-right: 10px;">
-        <a href="https://www.tiktok.com/@cspuhav" style="text-decoration: none; color: #333;">TikTok</a>
-    </li>
-    <li style="margin-bottom: 15px; display: flex; align-items: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_social_white_square_%282017%29.svg" alt="YouTube" style="width: 30px; height: 30px; margin-right: 10px;">
-        <a href="https://www.youtube.com/@laylonghav" style="text-decoration: none; color: #333;">YouTube</a>
-    </li>
-    <li style="margin-bottom: 15px; display: flex; align-items: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 30px; height: 30px; margin-right: 10px;">
-        <a href="https://www.facebook.com/laylonghav" style="text-decoration: none; color: #333;">Facebook</a>
-    </li>
-    <li style="margin-bottom: 15px; display: flex; align-items: center;">
-        <a href="https://portfolio-a6js.vercel.app/" style="text-decoration: none; color: #333; font-weight: bold;">Portfolio</a>
-    </li>
-</ul>
-
-
-
-
-
+<p align="center">
+ Let's build something amazing together! 🚀
+</p>
   
-Let's build something amazing together! 🚀
+
 
