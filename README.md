@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh1cThkeXBncWd5anQyNG05cjhnbmg4dW1nZjZja3EzNWx4ZmhsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" alt="Developer Banner" style="border-radius: 0; background: none;">
+ <iframe src="https://assets.pinterest.com/ext/embed.html?id=848787861044397921" height="550" width="600" frameborder="0" scrolling="no" ></iframe>
 </p>
 
 ## 💻 About Me
