@@ -54,9 +54,31 @@ Beyond front-end development, I have a strong command of back-end technologies, 
 
 
 ## 🔹 Additional Skills
-- Problem Solving, Teamwork, Time Management, Leadership, Communication, Critical Thinking, Adaptability
-- Microsoft Word, PowerPoint, Excel, Photography
-- Adobe Photoshop, Illustrator, Premiere
+- <p align="left">
+  <img src="https://img.shields.io/badge/-Problem_Solving-FF6B6B?logo=thinking-face&logoColor=white" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/-Teamwork-4ECDC4?logo=teamwork&logoColor=white" alt="Teamwork" />
+  <img src="https://img.shields.io/badge/-Time_Management-FFD93D?logo=clock&logoColor=black" alt="Time Management" />
+  <img src="https://img.shields.io/badge/-Leadership-6C5CE7?logo=leadership&logoColor=white" alt="Leadership" />
+  <img src="https://img.shields.io/badge/-Communication-2ECC71?logo=communication&logoColor=white" alt="Communication" />
+  <img src="https://img.shields.io/badge/-Critical_Thinking-FF9F43?logo=critical-thinking&logoColor=white" alt="Critical Thinking" />
+  <img src="https://img.shields.io/badge/-Adaptability-00B894?logo=adapt&logoColor=white" alt="Adaptability" />
+</p>
+
+- <p akign="left">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Word_2013-2019_logo.svg" alt="laylonghav" height="35" width="35" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="laylonghav" height="35" width="35" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="laylonghav" height="35" width="35" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Photography_icon.svg" alt="laylonghav" height="35" width="35" />
+  
+</p>
+
+  
+- <p akign="left">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="laylonghav" height="35" width="35" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="laylonghav" height="35" width="35" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="laylonghav" height="35" width="35" />
+  
+</p>
 
   
 ## 📍 Location
