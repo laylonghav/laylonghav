@@ -1,4 +1,6 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=848787861044397921" height="550" width="600" frameborder="0" scrolling="no"></iframe>
+<p align="center">
+  <img src="./coding-unscreen.gif" alt="Developer Banner" style="border-radius: 0; background: none;">
+</p>
 
 
 ## 💻 About Me
