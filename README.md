@@ -5,7 +5,7 @@
 <img align="right" src="./coding-unscreen.gif" alt="Developer Banner" style="border-radius: 0; background: none;">
 
 ## 💻 About Me
-<h3>Hello! I'm LAYLONGHAV</h3> 
+<h3>Hello! I'm LAY LONGHAV</h3> 
 
 🚀 Skilled & Passionate Web Developer
 I am a highly motivated Web Developer with a deep understanding of both front-end and back-end technologies. My passion lies in crafting high-quality, user-friendly websites and applications that provide seamless user experiences. With extensive experience in JavaScript, HTML, CSS, and modern frameworks, I specialize in developing dynamic, responsive, and visually appealing interfaces.
