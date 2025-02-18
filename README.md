@@ -1,6 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello%2C+Welcome!;I'm+Lay+Longhav.;Full-Stack+Developer.;Passionate+about+Coding!"  alt="Developer" />
+</p>
   
 <img align="right" src="./coding-unscreen.gif" alt="Developer Banner" style="border-radius: 0; background: none;">
 
